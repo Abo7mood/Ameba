@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c14df19c59ed1754090bc0420b69a76f, type: 3}
+  m_Name: 11
+  m_EditorClassIdentifier: 
+  txt: 'Enemy : Level 11'
+  sprite: {fileID: -7839838821299096501, guid: c5d7035179dc25044a4c4f96cf6994bd, type: 3}
+  name: Enemy11
+  level: 11
+  image: {fileID: 7400000, guid: 3d25cf46ca127df44bfbd8308b80e784, type: 2}
+  size: 3.5
+  score: 7000
+  speed: 0.3
+  radius: 1.3
+  pos: 2.2
+  freezeTime: 2
+  boxSize: {x: 0.2, y: 0.2}

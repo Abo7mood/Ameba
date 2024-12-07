@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c14df19c59ed1754090bc0420b69a76f, type: 3}
+  m_Name: 6
+  m_EditorClassIdentifier: 
+  txt: 'Enemy : Level 6'
+  sprite: {fileID: 7392253432855689799, guid: 82759c0e99d9ce941940317ac813c68f, type: 3}
+  name: Enemy6
+  level: 6
+  image: {fileID: 7400000, guid: b2f98fd7019704e4f881d11ea118f6fb, type: 2}
+  size: 2.75
+  score: 500
+  speed: 0.3
+  radius: 1.8
+  pos: 2.2
+  freezeTime: 1
+  boxSize: {x: 0.13, y: 0.15}
