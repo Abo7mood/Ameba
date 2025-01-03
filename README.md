@@ -5,10 +5,8 @@ Welcome to the **Ameba Survival Game**! 🕔 This is an exciting **2D action gam
 ![image](https://github.com/user-attachments/assets/d4c5acbd-7b27-4012-9f7f-39df6cc29485)
 
 # Solo Project 🔥🔥🔥
+this project being made solo by me
 
-- **Operating System**:  IOS 📱 & android 📱
-- **Controls**: Mouse and Keyboard 🖱️⌨️
-- **Game Type**: 3D Game 🌍
 ## 🎮 Gameplay Details 🎮
 
 - **Operating System**:  IOS 📱 & android 📱
