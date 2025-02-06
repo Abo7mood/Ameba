@@ -68,5 +68,5 @@ It remains one of my **most enjoyable freelance projects**, blending **retro des
 ## 🎮 Demo 🎮
 --------------------------
 
-- **you can play the pc version in (/PC) , and you could find the ios version at (AmebaIos).**
+- **you can play the pc version in (/PC) path, and you could find the ios version at (AmebaIos) path.**
 
